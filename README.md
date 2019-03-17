@@ -6,4 +6,4 @@ My intern project was a smart watch which collected student activities in their 
 -------------------------------------------------------
 ## 2016 at Shiseido Vietnam INC (Second year internship)
 My project at Shiseido was a machine which help cleaning bottles easier and faster.
-Simulation: [here] https://www.youtube.com/watch?v=GpkcZLf5RdQ
+Simulation: [here](https://www.youtube.com/watch?v=GpkcZLf5RdQ)
