@@ -1,6 +1,8 @@
 # Projects made during my study at Bach Khoa University
 
 ## Final year project
+2D robotic plotter 
+Video & description: [here](https://youtu.be/BoJ8rlpVZVI)
 
 ## Third year project 
 Automatically Guided Vehicle (group project)
